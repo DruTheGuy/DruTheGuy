@@ -8,3 +8,6 @@ This repository will just be there to showcase little projects I made here or th
 3. Wondering who's sleeping in my profile picture? That's one of my amazing cats, Cheeta! I've had her since I was six years old!
 
 Well, thats about it for now. I may add some little updates later!
+
+## !UPDATE!
+I have decided to switch from learning C++ to instead learn Phaser.js. This is because i want to make games, and C++ isnt the best language for that.
