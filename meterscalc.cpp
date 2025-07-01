@@ -5,12 +5,12 @@ int main() {
   double feet;
   double meters;
 
-  //convert the variables
-  meters = feet*0.3;
-
   //Input the feet
   std::cout << "Input feet: ";
   std::cin >> feet;
+  
+  //convert the variables
+  meters = feet*0.3;
   
   //output the answer
   std::cout << "The length is " << meters << " long\n";
