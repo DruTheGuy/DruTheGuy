@@ -13,5 +13,5 @@ int main() {
   meters = feet*0.3;
   
   //output the answer
-  std::cout << "The length is " << meters << " long\n";
+  std::cout << "The length is " << meters << " meters long\n";
   }
